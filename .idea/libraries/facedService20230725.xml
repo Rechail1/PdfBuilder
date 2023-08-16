@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="facedService20230725">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/lib/facedService20230725.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

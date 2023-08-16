@@ -1,0 +1,58 @@
+<request>
+    <customerParam>
+        <userId>2215963208416</userId>
+        <nickName>afllogisticslimited</nickName>
+    </customerParam>
+    <orderParam>
+        <outOrderCode>AFLAI4663779749YQ</outOrderCode>
+        <productCode>HK_LAND_LC</productCode>
+        <senderParam>
+            <name>AFL LOGISTICS LIMITED</name>
+            <mobile>0048 608006293</mobile>
+            <company>AFL LOGISTICS LIMITED</company>
+            <email></email>
+            <zipCode>69-100</zipCode>
+            <countryCode>HK</countryCode>
+            <province>香港特别行政区</province>
+            <city>香港岛</city>
+            <district>东区</district>
+            <detailAddress>紅磡民裕街39號地下</detailAddress>
+            <intTelCode></intTelCode>
+        </senderParam>
+        <receiverParam>
+            <name>Rolf Hansen</name>
+            <mobile>6513161123</mobile>
+            <company>afl</company>
+            <email>12321adg@qq.com</email>
+            <zipCode>47139</zipCode>
+            <countryCode>HK</countryCode>
+            <province>香港特别行政区</province>
+            <city>新界</city>
+            <district>葵青区</district>
+            <detailAddress>青康路康泰楼630室香港九龍紅磡民裕街36號地下</detailAddress>
+            <intTelCode>null</intTelCode>
+        </receiverParam>
+        <pickUpParam>
+            <code>DOOR_PICKUP</code>
+        </pickUpParam>
+        <deliveryParam>
+            <code>DOOR_DELIVERY</code>
+        </deliveryParam>
+        <packageParams>
+            <packageParam>
+                <mailNo>AFLAI4663779749YQ</mailNo>
+                <length>1</length>
+                <width>1</width>
+                <height>1</height>
+                <weight>26000</weight>
+                <itemParams>
+                    <itemParam>
+                        <itemName>干红葡萄酒</itemName>
+                        <quantity>1</quantity>
+                        <unitPrice>1100</unitPrice>
+                    </itemParam>
+                </itemParams>
+            </packageParam>
+        </packageParams>
+    </orderParam>
+</request>
